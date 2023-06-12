@@ -1,0 +1,2 @@
+Entrou: 4 Cadeira
+Saiu: 4 Cadeira
